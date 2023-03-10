@@ -1,0 +1,12 @@
+[INFO] 00:46:19:884 Servidor/(277962:277962): Servidor listo para recibir al cliente
+[INFO] 00:53:25:990 Servidor/(277962:277962): Se conecto un cliente!
+[INFO] 00:53:25:991 Servidor/(277962:277962): Me llego el mensaje valor
+[ERROR] 00:53:25:991 Servidor/(277962:277962): el cliente se desconecto. Terminando servidor
+[INFO] 01:02:18:399 Servidor/(295977:295977): Servidor listo para recibir al cliente
+[INFO] 01:02:29:335 Servidor/(295977:295977): Se conecto un cliente!
+[INFO] 01:02:29:335 Servidor/(295977:295977): Me llego el mensaje valor
+[INFO] 01:02:35:018 Servidor/(295977:295977): Me llegaron los siguientes valores:
+
+[INFO] 01:02:35:018 Servidor/(295977:295977): test
+[INFO] 01:02:35:018 Servidor/(295977:295977): test
+[ERROR] 01:02:35:018 Servidor/(295977:295977): el cliente se desconecto. Terminando servidor

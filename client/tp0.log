@@ -1,0 +1,53 @@
+[INFO] 23:19:42:627 cliente/(181550:181550): Hola! Soy un log
+[INFO] 23:19:42:627 cliente/(181550:181550): Error al abrir config
+[INFO] 23:20:13:108 cliente/(182131:182131): Hola! Soy un log
+[INFO] 23:20:13:108 cliente/(182131:182131): ip: (null)
+[INFO] 23:20:13:108 cliente/(182131:182131): puerto: (null)
+[INFO] 23:20:13:108 cliente/(182131:182131): valor: valor
+[INFO] 23:22:47:329 cliente/(185035:185035): Hola! Soy un log
+[INFO] 23:22:47:329 cliente/(185035:185035): ip: 127.0.0.1
+[INFO] 23:22:47:332 cliente/(185035:185035): puerto: 4444
+[INFO] 23:22:47:332 cliente/(185035:185035): valor: valor
+[INFO] 23:23:21:685 cliente/(185675:185675): Hola! Soy un log
+[INFO] 23:23:21:685 cliente/(185675:185675): ip: 127.0.0.1
+[INFO] 23:23:21:685 cliente/(185675:185675): puerto: 4444
+[INFO] 23:23:21:685 cliente/(185675:185675): valor: valor
+[INFO] 23:23:40:612 cliente/(186045:186045): Hola! Soy un log
+[INFO] 23:23:40:612 cliente/(186045:186045): ip: 127.0.0.1
+[INFO] 23:23:40:612 cliente/(186045:186045): puerto: 4444
+[INFO] 23:23:40:612 cliente/(186045:186045): valor: valor
+[INFO] 23:23:42:893 cliente/(186045:186045): test
+[INFO] 23:23:45:310 cliente/(186045:186045): what
+[INFO] 23:23:46:871 cliente/(186045:186045): 
+[INFO] 23:23:48:012 cliente/(186045:186045): 
+[INFO] 23:23:48:466 cliente/(186045:186045): 
+[INFO] 23:23:48:721 cliente/(186045:186045): 
+[INFO] 23:23:48:938 cliente/(186045:186045): 
+[INFO] 23:23:49:131 cliente/(186045:186045): 
+[INFO] 23:23:49:555 cliente/(186045:186045): 
+[INFO] 23:23:49:725 cliente/(186045:186045): 
+[INFO] 23:23:49:895 cliente/(186045:186045): 
+[INFO] 23:25:14:110 cliente/(187805:187805): Hola! Soy un log
+[INFO] 23:25:14:110 cliente/(187805:187805): ip: 127.0.0.1
+[INFO] 23:25:14:110 cliente/(187805:187805): puerto: 4444
+[INFO] 23:25:14:110 cliente/(187805:187805): valor: valor
+[INFO] 23:25:37:077 cliente/(188245:188245): Hola! Soy un log
+[INFO] 23:25:37:077 cliente/(188245:188245): ip: 127.0.0.1
+[INFO] 23:25:37:077 cliente/(188245:188245): puerto: 4444
+[INFO] 23:25:37:077 cliente/(188245:188245): valor: valor
+[INFO] 23:27:43:140 cliente/(190591:190591): Hola! Soy un log
+[INFO] 23:27:43:140 cliente/(190591:190591): ip: 127.0.0.1
+[INFO] 23:27:43:140 cliente/(190591:190591): puerto: 4444
+[INFO] 23:27:43:140 cliente/(190591:190591): valor: valor
+[INFO] 23:27:44:404 cliente/(190591:190591): test
+[INFO] 00:53:22:278 cliente/(285857:285857): Hola! Soy un log
+[INFO] 00:53:22:278 cliente/(285857:285857): ip: 127.0.0.1
+[INFO] 00:53:22:278 cliente/(285857:285857): puerto: 4444
+[INFO] 00:53:22:278 cliente/(285857:285857): valor: valor
+[INFO] 00:53:24:873 cliente/(285857:285857): test
+[INFO] 01:02:14:022 cliente/(295702:295702): Hola! Soy un log
+[INFO] 01:02:14:023 cliente/(295702:295702): ip: 127.0.0.1
+[INFO] 01:02:14:023 cliente/(295702:295702): puerto: 4444
+[INFO] 01:02:14:023 cliente/(295702:295702): valor: valor
+[INFO] 01:02:27:114 cliente/(295702:295702): test
+[INFO] 01:02:28:773 cliente/(295702:295702): test

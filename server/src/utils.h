@@ -3,6 +3,7 @@
 
 #include<stdio.h>
 #include<stdlib.h>
+#include<sys/types.h>
 #include<sys/socket.h>
 #include<unistd.h>
 #include<netdb.h>
@@ -14,8 +15,7 @@
 #define IP "127.0.0.1"
 #define PUERTO "4444"
 
-typedef enum
-{
+typedef enum {
 	MENSAJE,
 	PAQUETE
 }op_code;

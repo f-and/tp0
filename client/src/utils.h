@@ -29,7 +29,7 @@ typedef struct
 } t_paquete;
 
 
-
+// Crea una conexion al puerto de la ip dada y reenvia el socket generado.
 int crear_conexion(char* ip, char* puerto);
 void enviar_mensaje(char* mensaje, int socket_cliente);
 t_paquete* crear_paquete(void);
