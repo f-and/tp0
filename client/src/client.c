@@ -75,6 +75,7 @@ void leer_consola(t_log* logger) {
 	// El resto, las vamos leyendo y logueando hasta recibir un string vacío
 	while(strcmp(leido, "")) {
 		log_info(logger, leido);
+		free(leido);
 		leido = readline("> ");
 	}
 
@@ -86,18 +87,19 @@ void leer_consola(t_log* logger) {
 void paquete(int conexion) {
 	// Ahora toca lo divertido!
 	char* leido = readline("> ");
-	t_paquete* paquete = crear_paquete();
+	t_paquete* paquete = crear_super_paquete();
 
 	// Leemos y esta vez agregamos las lineas al paquete
 	while(strcmp(leido, "")) { 
 		agregar_a_paquete(paquete, leido, strlen(leido) + 1);
+		free(leido);
 		leido = readline("> ");
 	}
 	enviar_paquete(paquete, conexion);
 
 	// ¡No te olvides de liberar las líneas y el paquete antes de regresar!
 	free(leido);
-	free(paquete);
+	eliminar_paquete(paquete);
 }
 
 void terminar_programa(int conexion, t_log* logger, t_config* config)

@@ -1,0 +1,9 @@
+.vscode/
+client/tp0.out
+server/tp0.out
+client/tp0.log
+server/tp0.log
+configurationCache.log
+dryrun.log
+.vscode/settings.json
+targets.log
