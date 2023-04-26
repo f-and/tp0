@@ -6,6 +6,8 @@
         "unistd.h": "c",
         "netdb.h": "c",
         "features.h": "c",
-        "types.h": "c"
+        "types.h": "c",
+        "list.h": "c",
+        "semaphore.h": "c"
     }
 }

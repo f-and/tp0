@@ -12,7 +12,7 @@ FILES := ./$(SRC)/server.c ./$(SRC)/utils.c
 OUTPUT_FILE := tp0
 
 CC := gcc
-CFLAGS := -I $(SRC) -lcommons -lreadline -Wall -Wextra -O
+CFLAGS := -I $(SRC) -lcommons -lreadline -Wall -Wextra -g
 
 compile: title
 	@echo "Compilando... "

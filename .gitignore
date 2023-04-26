@@ -7,3 +7,4 @@ configurationCache.log
 dryrun.log
 .vscode/settings.json
 targets.log
+server/tp0.out

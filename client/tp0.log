@@ -51,3 +51,781 @@
 [INFO] 01:02:14:023 cliente/(295702:295702): valor: valor
 [INFO] 01:02:27:114 cliente/(295702:295702): test
 [INFO] 01:02:28:773 cliente/(295702:295702): test
+[INFO] 19:29:48:214 cliente/(113375:113375): Hola! Soy un log
+[INFO] 19:29:48:218 cliente/(113375:113375): ip: 127.0.0.1
+[INFO] 19:29:48:218 cliente/(113375:113375): puerto: 4444
+[INFO] 19:29:48:218 cliente/(113375:113375): valor: valor
+[INFO] 19:35:47:380 cliente/(120183:120183): Hola! Soy un log
+[INFO] 19:35:47:380 cliente/(120183:120183): ip: 127.0.0.1
+[INFO] 19:35:47:380 cliente/(120183:120183): puerto: 4444
+[INFO] 19:35:47:380 cliente/(120183:120183): valor: valor
+[INFO] 19:42:24:182 cliente/(127814:127814): Hola! Soy un log
+[INFO] 19:42:24:182 cliente/(127814:127814): ip: 127.0.0.1
+[INFO] 19:42:24:182 cliente/(127814:127814): puerto: 4444
+[INFO] 19:42:24:182 cliente/(127814:127814): valor: valor
+[INFO] 19:42:25:292 cliente/(127814:127814): Me llego el mensaje Me llego tu mensaje
+[INFO] 19:46:03:117 cliente/(132126:132126): Hola! Soy un log
+[INFO] 19:46:03:117 cliente/(132126:132126): ip: 127.0.0.1
+[INFO] 19:46:03:117 cliente/(132126:132126): puerto: 4444
+[INFO] 19:46:03:117 cliente/(132126:132126): valor: valor
+[INFO] 19:46:03:878 cliente/(132126:132126): Me llego el mensaje Me llego tu mensaje
+[INFO] 19:46:05:393 cliente/(132173:132173): Hola! Soy un log
+[INFO] 19:46:05:394 cliente/(132173:132173): ip: 127.0.0.1
+[INFO] 19:46:05:394 cliente/(132173:132173): puerto: 4444
+[INFO] 19:46:05:394 cliente/(132173:132173): valor: valor
+[INFO] 19:46:21:959 cliente/(132173:132173): Me llego el mensaje PÒðÇ•
+[INFO] 19:48:46:118 cliente/(135282:135282): Hola! Soy un log
+[INFO] 19:48:46:118 cliente/(135282:135282): ip: 127.0.0.1
+[INFO] 19:48:46:118 cliente/(135282:135282): puerto: 4444
+[INFO] 19:48:46:118 cliente/(135282:135282): valor: valor
+[INFO] 19:51:37:747 cliente/(135282:135282): Me llego el mensaje Me llego tu mensaje
+[INFO] 19:52:53:202 cliente/(139917:139917): Hola! Soy un log
+[INFO] 19:52:53:202 cliente/(139917:139917): ip: 127.0.0.1
+[INFO] 19:52:53:202 cliente/(139917:139917): puerto: 4444
+[INFO] 19:52:53:202 cliente/(139917:139917): valor: valor
+[INFO] 19:57:24:186 cliente/(145604:145604): Hola! Soy un log
+[INFO] 19:57:24:186 cliente/(145604:145604): ip: 127.0.0.1
+[INFO] 19:57:24:186 cliente/(145604:145604): puerto: 4444
+[INFO] 19:57:24:187 cliente/(145604:145604): valor: valor
+[INFO] 19:57:45:793 cliente/(145604:145604): Me llego el mensaje Me llego tu mensaje
+[INFO] 19:57:52:289 cliente/(146244:146244): Hola! Soy un log
+[INFO] 19:57:52:290 cliente/(146244:146244): ip: 127.0.0.1
+[INFO] 19:57:52:290 cliente/(146244:146244): puerto: 4444
+[INFO] 19:57:52:290 cliente/(146244:146244): valor: valor
+[INFO] 19:58:01:122 cliente/(146244:146244): Me llego el mensaje Prò÷ÿ
+[INFO] 19:59:03:239 cliente/(147689:147689): Hola! Soy un log
+[INFO] 19:59:03:239 cliente/(147689:147689): ip: 127.0.0.1
+[INFO] 19:59:03:239 cliente/(147689:147689): puerto: 4444
+[INFO] 19:59:03:239 cliente/(147689:147689): valor: valor
+[INFO] 19:59:45:025 cliente/(148558:148558): Hola! Soy un log
+[INFO] 19:59:45:026 cliente/(148558:148558): ip: 127.0.0.1
+[INFO] 19:59:45:026 cliente/(148558:148558): puerto: 4444
+[INFO] 19:59:45:027 cliente/(148558:148558): valor: valor
+[INFO] 20:01:38:695 cliente/(150593:150593): Hola! Soy un log
+[INFO] 20:01:46:623 cliente/(150593:150593): ip: 127.0.0.1
+[INFO] 20:01:47:766 cliente/(150593:150593): puerto: 4444
+[INFO] 20:01:48:709 cliente/(150593:150593): valor: valor
+[INFO] 20:03:19:330 cliente/(150593:150593): Me llego el mensaje Me llego tu mensaje
+[INFO] 20:04:18:823 cliente/(153953:153953): Hola! Soy un log
+[INFO] 20:04:26:794 cliente/(153953:153953): ip: 127.0.0.1
+[INFO] 20:04:27:373 cliente/(153953:153953): puerto: 4444
+[INFO] 20:04:27:922 cliente/(153953:153953): valor: valor
+[INFO] 20:07:53:633 cliente/(153953:153953): Me llego el mensaje Prò÷ÿ
+[INFO] 20:24:56:692 cliente/(177011:177011): Hola! Soy un log
+[INFO] 20:24:56:692 cliente/(177011:177011): ip: 127.0.0.1
+[INFO] 20:24:56:692 cliente/(177011:177011): puerto: 4444
+[INFO] 20:24:56:692 cliente/(177011:177011): valor: valor
+[INFO] 20:24:57:362 cliente/(177011:177011): Me llego el mensaje Me llego tu mensaje
+[INFO] 20:24:59:521 cliente/(177079:177079): Hola! Soy un log
+[INFO] 20:24:59:522 cliente/(177079:177079): ip: 127.0.0.1
+[INFO] 20:24:59:522 cliente/(177079:177079): puerto: 4444
+[INFO] 20:24:59:522 cliente/(177079:177079): valor: valor
+[INFO] 20:25:00:747 cliente/(177079:177079): Me llego el mensaje Me llego tu mensaje
+[INFO] 20:25:03:485 cliente/(177187:177187): Hola! Soy un log
+[INFO] 20:25:03:486 cliente/(177187:177187): ip: 127.0.0.1
+[INFO] 20:25:03:486 cliente/(177187:177187): puerto: 4444
+[INFO] 20:25:03:486 cliente/(177187:177187): valor: valor
+[INFO] 20:25:03:993 cliente/(177187:177187): Me llego el mensaje Me llego tu mensaje
+[INFO] 20:42:13:121 cliente/(196407:196407): Hola! Soy un log
+[INFO] 20:42:13:121 cliente/(196407:196407): ip: 127.0.0.1
+[INFO] 20:42:13:124 cliente/(196407:196407): puerto: 4444
+[INFO] 20:42:13:124 cliente/(196407:196407): valor: valor
+[INFO] 20:42:14:136 cliente/(196407:196407): Me llego el mensaje Me llego tu mensaje
+[INFO] 20:42:16:850 cliente/(196505:196505): Hola! Soy un log
+[INFO] 20:42:16:850 cliente/(196505:196505): ip: 127.0.0.1
+[INFO] 20:42:16:850 cliente/(196505:196505): puerto: 4444
+[INFO] 20:42:16:850 cliente/(196505:196505): valor: valor
+[INFO] 20:42:17:889 cliente/(196505:196505): Me llego el mensaje Me llego tu mensaje
+[INFO] 20:42:20:187 cliente/(196591:196591): Hola! Soy un log
+[INFO] 20:42:20:188 cliente/(196591:196591): ip: 127.0.0.1
+[INFO] 20:42:20:188 cliente/(196591:196591): puerto: 4444
+[INFO] 20:42:20:188 cliente/(196591:196591): valor: valor
+[INFO] 20:42:20:726 cliente/(196591:196591): Me llego el mensaje Me llego tu mensaje
+[INFO] 20:55:47:783 cliente/(212766:212766): Hola! Soy un log
+[INFO] 20:55:47:785 cliente/(212766:212766): ip: 127.0.0.1
+[INFO] 20:55:47:786 cliente/(212766:212766): puerto: 4444
+[INFO] 20:55:47:786 cliente/(212766:212766): valor: valor
+[INFO] 20:58:42:291 cliente/(216269:216269): Hola! Soy un log
+[INFO] 20:58:42:292 cliente/(216269:216269): ip: 127.0.0.1
+[INFO] 20:58:42:292 cliente/(216269:216269): puerto: 4444
+[INFO] 20:58:42:292 cliente/(216269:216269): valor: valor
+[INFO] 20:58:43:510 cliente/(216269:216269): Me llego el mensaje P‚þ€;
+[INFO] 21:01:27:666 cliente/(219518:219518): Hola! Soy un log
+[INFO] 21:01:27:666 cliente/(219518:219518): ip: 127.0.0.1
+[INFO] 21:01:27:666 cliente/(219518:219518): puerto: 4444
+[INFO] 21:01:27:666 cliente/(219518:219518): valor: valor
+[INFO] 21:01:28:861 cliente/(219518:219518): Me llego el mensaje PâSæ³
+[INFO] 21:01:38:545 cliente/(219799:219799): Hola! Soy un log
+[INFO] 21:01:38:545 cliente/(219799:219799): ip: 127.0.0.1
+[INFO] 21:01:38:545 cliente/(219799:219799): puerto: 4444
+[INFO] 21:01:38:545 cliente/(219799:219799): valor: valor
+[INFO] 21:01:40:109 cliente/(219799:219799): Me llego el mensaje P2àÁä
+[INFO] 21:02:47:670 Servidor/(221177:221177): Servidor listo para recibir al cliente
+[INFO] 21:03:47:983 Servidor/(221446:221446): Servidor listo para recibir al cliente
+[INFO] 21:03:55:387 cliente/(222567:222567): Hola! Soy un log
+[INFO] 21:03:55:387 cliente/(222567:222567): ip: 127.0.0.1
+[INFO] 21:03:55:387 cliente/(222567:222567): puerto: 4444
+[INFO] 21:03:55:387 cliente/(222567:222567): valor: valor
+[INFO] 21:03:58:938 Servidor/(221446:221446): Se conecto un cliente!
+[INFO] 21:04:14:658 cliente/(222567:222567): Me llego el mensaje PRF'
+[INFO] 21:08:34:608 cliente/(228146:228146): Hola! Soy un log
+[INFO] 21:08:34:608 cliente/(228146:228146): ip: 127.0.0.1
+[INFO] 21:08:34:608 cliente/(228146:228146): puerto: 4444
+[INFO] 21:08:34:608 cliente/(228146:228146): valor: valor
+[INFO] 21:08:35:332 cliente/(228146:228146): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:08:40:629 cliente/(228272:228272): Hola! Soy un log
+[INFO] 21:08:40:629 cliente/(228272:228272): ip: 127.0.0.1
+[INFO] 21:08:40:630 cliente/(228272:228272): puerto: 4444
+[INFO] 21:08:40:630 cliente/(228272:228272): valor: valor
+[INFO] 21:08:52:002 cliente/(228539:228539): Hola! Soy un log
+[INFO] 21:08:52:002 cliente/(228539:228539): ip: 127.0.0.1
+[INFO] 21:08:52:002 cliente/(228539:228539): puerto: 4444
+[INFO] 21:08:52:002 cliente/(228539:228539): valor: valor
+[INFO] 21:08:52:980 cliente/(228539:228539): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:09:31:543 cliente/(229340:229340): Hola! Soy un log
+[INFO] 21:09:31:543 cliente/(229340:229340): ip: 127.0.0.1
+[INFO] 21:09:31:544 cliente/(229340:229340): puerto: 4444
+[INFO] 21:09:31:544 cliente/(229340:229340): valor: valor
+[INFO] 21:09:32:831 cliente/(229340:229340): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:10:09:497 Servidor/(230063:230063): Servidor listo para recibir al cliente
+[INFO] 21:10:14:946 cliente/(230375:230375): Hola! Soy un log
+[INFO] 21:10:14:946 cliente/(230375:230375): ip: 127.0.0.1
+[INFO] 21:10:14:946 cliente/(230375:230375): puerto: 4444
+[INFO] 21:10:14:946 cliente/(230375:230375): valor: valor
+[INFO] 21:10:18:081 Servidor/(230063:230063): Se conecto un cliente!
+[INFO] 21:10:26:824 Servidor/(230063:230583): Me llego el mensaje valor
+[INFO] 21:10:26:824 cliente/(230375:230375): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:10:33:062 Servidor/(230063:230063): Servidor listo para recibir al cliente
+[INFO] 21:10:43:970 cliente/(231013:231013): Hola! Soy un log
+[INFO] 21:10:43:970 cliente/(231013:231013): ip: 127.0.0.1
+[INFO] 21:10:43:970 cliente/(231013:231013): puerto: 4444
+[INFO] 21:10:43:970 cliente/(231013:231013): valor: valor
+[INFO] 21:10:46:888 Servidor/(230063:230583): Me llegaron los siguientes valores:
+[ERROR] 21:10:46:890 Servidor/(230063:230583): el cliente se desconecto. Terminando servidor
+[INFO] 21:10:55:754 Servidor/(230063:230063): Se conecto un cliente!
+[INFO] 21:10:59:922 Servidor/(230063:231379): Me llego el mensaje valor
+[INFO] 21:11:02:007 cliente/(231013:231013): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:11:10:968 Servidor/(230063:231379): Me llegaron los siguientes valores:
+[ERROR] 21:11:10:969 Servidor/(230063:231379): el cliente se desconecto. Terminando servidor
+[INFO] 21:11:13:938 Servidor/(230063:230063): Servidor listo para recibir al cliente
+[INFO] 21:11:18:420 cliente/(231782:231782): Hola! Soy un log
+[INFO] 21:11:18:421 cliente/(231782:231782): ip: 127.0.0.1
+[INFO] 21:11:18:421 cliente/(231782:231782): puerto: 4444
+[INFO] 21:11:18:421 cliente/(231782:231782): valor: valor
+[INFO] 21:11:21:535 cliente/(231782:231782): Me llego el mensaje P2t³V
+[INFO] 21:17:59:874 cliente/(239402:239402): Hola! Soy un log
+[INFO] 21:17:59:874 cliente/(239402:239402): ip: 127.0.0.1
+[INFO] 21:17:59:874 cliente/(239402:239402): puerto: 4444
+[INFO] 21:17:59:874 cliente/(239402:239402): valor: valor
+[INFO] 21:19:50:617 cliente/(241472:241472): Hola! Soy un log
+[INFO] 21:19:50:617 cliente/(241472:241472): ip: 127.0.0.1
+[INFO] 21:19:50:617 cliente/(241472:241472): puerto: 4444
+[INFO] 21:19:50:617 cliente/(241472:241472): valor: valor
+[INFO] 21:19:51:295 cliente/(241472:241472): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:19:54:442 cliente/(241557:241557): Hola! Soy un log
+[INFO] 21:19:54:442 cliente/(241557:241557): ip: 127.0.0.1
+[INFO] 21:19:54:445 cliente/(241557:241557): puerto: 4444
+[INFO] 21:19:54:445 cliente/(241557:241557): valor: valor
+[INFO] 21:19:54:981 cliente/(241557:241557): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:20:45:892 cliente/(242636:242636): Hola! Soy un log
+[INFO] 21:20:45:893 cliente/(242636:242636): ip: 127.0.0.1
+[INFO] 21:20:45:895 cliente/(242636:242636): puerto: 4444
+[INFO] 21:20:45:895 cliente/(242636:242636): valor: valor
+[INFO] 21:20:52:112 cliente/(242771:242771): Hola! Soy un log
+[INFO] 21:20:52:112 cliente/(242771:242771): ip: 127.0.0.1
+[INFO] 21:20:52:112 cliente/(242771:242771): puerto: 4444
+[INFO] 21:20:52:112 cliente/(242771:242771): valor: valor
+[INFO] 21:20:52:657 cliente/(242636:242636): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:21:01:092 cliente/(242771:242771): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:21:14:670 cliente/(243228:243228): Hola! Soy un log
+[INFO] 21:21:14:670 cliente/(243228:243228): ip: 127.0.0.1
+[INFO] 21:21:14:670 cliente/(243228:243228): puerto: 4444
+[INFO] 21:21:14:670 cliente/(243228:243228): valor: valor
+[INFO] 21:21:14:909 cliente/(243246:243246): Hola! Soy un log
+[INFO] 21:21:14:910 cliente/(243246:243246): ip: 127.0.0.1
+[INFO] 21:21:14:912 cliente/(243246:243246): puerto: 4444
+[INFO] 21:21:14:912 cliente/(243246:243246): valor: valor
+[INFO] 21:21:16:003 cliente/(243228:243228): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:21:20:893 cliente/(243246:243246): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:21:48:393 cliente/(243896:243896): Hola! Soy un log
+[INFO] 21:21:48:393 cliente/(243896:243896): ip: 127.0.0.1
+[INFO] 21:21:48:393 cliente/(243896:243896): puerto: 4444
+[INFO] 21:21:48:393 cliente/(243896:243896): valor: valor
+[INFO] 21:21:48:700 cliente/(243896:243896): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:25:15:526 cliente/(247859:247859): Hola! Soy un log
+[INFO] 21:25:15:526 cliente/(247859:247859): ip: 127.0.0.1
+[INFO] 21:25:15:526 cliente/(247859:247859): puerto: 4444
+[INFO] 21:25:15:526 cliente/(247859:247859): valor: valor
+[INFO] 21:25:16:236 cliente/(247887:247887): Hola! Soy un log
+[INFO] 21:25:16:236 cliente/(247887:247887): ip: 127.0.0.1
+[INFO] 21:25:16:236 cliente/(247887:247887): puerto: 4444
+[INFO] 21:25:16:236 cliente/(247887:247887): valor: valor
+[INFO] 21:25:28:654 cliente/(247887:247887): Me llego el mensaje PYÙ
+
+[INFO] 21:25:28:654 cliente/(247859:247859): Me llego el mensaje P’©°!
+[INFO] 21:27:02:754 Servidor/(249510:249510): Servidor listo para recibir al cliente
+[INFO] 21:27:08:253 Servidor/(249510:250047): Se conecto un cliente!
+[ERROR] 21:27:08:254 Servidor/(249510:250047): 32767 | el cliente se desconecto. Terminando servidor
+[INFO] 21:27:31:805 Servidor/(250490:250490): Servidor listo para recibir al cliente
+[INFO] 21:27:38:087 Servidor/(250490:250676): Se conecto un cliente!
+[ERROR] 21:27:38:088 Servidor/(250490:250676): 32767 | el cliente se desconecto. Terminando servidor
+[INFO] 21:27:45:359 Servidor/(250490:250490): Servidor listo para recibir al cliente
+[INFO] 21:28:14:271 Servidor/(251490:251490): 0 | Servidor listo para recibir al cliente
+[INFO] 21:28:18:559 Servidor/(251490:251681): Se conecto un cliente!
+[ERROR] 21:28:18:560 Servidor/(251490:251681): 32767 | el cliente se desconecto. Terminando servidor
+[INFO] 21:29:14:661 cliente/(252881:252881): Hola! Soy un log
+[INFO] 21:29:14:661 cliente/(252881:252881): ip: 127.0.0.1
+[INFO] 21:29:14:661 cliente/(252881:252881): puerto: 4444
+[INFO] 21:29:14:661 cliente/(252881:252881): valor: valor
+[INFO] 21:29:15:830 cliente/(252881:252881): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:29:18:457 cliente/(252962:252962): Hola! Soy un log
+[INFO] 21:29:18:458 cliente/(252962:252962): ip: 127.0.0.1
+[INFO] 21:29:18:458 cliente/(252962:252962): puerto: 4444
+[INFO] 21:29:18:458 cliente/(252962:252962): valor: valor
+[INFO] 21:29:23:509 cliente/(252962:252962): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:29:25:992 cliente/(253128:253128): Hola! Soy un log
+[INFO] 21:29:25:992 cliente/(253128:253128): ip: 127.0.0.1
+[INFO] 21:29:25:992 cliente/(253128:253128): puerto: 4444
+[INFO] 21:29:25:992 cliente/(253128:253128): valor: valor
+[INFO] 21:29:28:119 cliente/(253128:253128): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:29:29:895 cliente/(253220:253220): Hola! Soy un log
+[INFO] 21:29:29:895 cliente/(253220:253220): ip: 127.0.0.1
+[INFO] 21:29:29:896 cliente/(253220:253220): puerto: 4444
+[INFO] 21:29:29:896 cliente/(253220:253220): valor: valor
+[INFO] 21:29:33:622 cliente/(253280:253280): Hola! Soy un log
+[INFO] 21:29:33:623 cliente/(253280:253280): ip: 127.0.0.1
+[INFO] 21:29:33:623 cliente/(253280:253280): puerto: 4444
+[INFO] 21:29:33:623 cliente/(253280:253280): valor: valor
+[INFO] 21:29:34:854 cliente/(253220:253220): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:29:39:159 cliente/(253280:253280): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:30:30:108 cliente/(254426:254426): Hola! Soy un log
+[INFO] 21:30:30:109 cliente/(254426:254426): ip: 127.0.0.1
+[INFO] 21:30:30:109 cliente/(254426:254426): puerto: 4444
+[INFO] 21:30:30:109 cliente/(254426:254426): valor: valor
+[INFO] 21:30:33:025 cliente/(254479:254479): Hola! Soy un log
+[INFO] 21:30:33:025 cliente/(254479:254479): ip: 127.0.0.1
+[INFO] 21:30:33:025 cliente/(254479:254479): puerto: 4444
+[INFO] 21:30:33:025 cliente/(254479:254479): valor: valor
+[INFO] 21:30:36:697 cliente/(254537:254537): Hola! Soy un log
+[INFO] 21:30:36:697 cliente/(254537:254537): ip: 127.0.0.1
+[INFO] 21:30:36:697 cliente/(254537:254537): puerto: 4444
+[INFO] 21:30:36:697 cliente/(254537:254537): valor: valor
+[INFO] 21:30:38:308 cliente/(254574:254574): Hola! Soy un log
+[INFO] 21:30:38:308 cliente/(254574:254574): ip: 127.0.0.1
+[INFO] 21:30:38:308 cliente/(254574:254574): puerto: 4444
+[INFO] 21:30:38:308 cliente/(254574:254574): valor: valor
+[INFO] 21:30:39:249 cliente/(254590:254590): Hola! Soy un log
+[INFO] 21:30:39:250 cliente/(254590:254590): ip: 127.0.0.1
+[INFO] 21:30:39:250 cliente/(254590:254590): puerto: 4444
+[INFO] 21:30:39:250 cliente/(254590:254590): valor: valor
+[INFO] 21:30:45:305 cliente/(254426:254426): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:30:54:868 cliente/(254479:254479): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:30:58:414 cliente/(254537:254537): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:31:01:843 cliente/(254574:254574): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:31:05:182 cliente/(254590:254590): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:31:24:856 cliente/(255572:255572): Hola! Soy un log
+[INFO] 21:31:24:856 cliente/(255572:255572): ip: 127.0.0.1
+[INFO] 21:31:24:856 cliente/(255572:255572): puerto: 4444
+[INFO] 21:31:24:856 cliente/(255572:255572): valor: valor
+[INFO] 21:31:25:415 cliente/(255572:255572): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:31:27:685 cliente/(255622:255622): Hola! Soy un log
+[INFO] 21:31:27:685 cliente/(255622:255622): ip: 127.0.0.1
+[INFO] 21:31:27:685 cliente/(255622:255622): puerto: 4444
+[INFO] 21:31:27:685 cliente/(255622:255622): valor: valor
+[INFO] 21:31:29:051 cliente/(255659:255659): Hola! Soy un log
+[INFO] 21:31:29:051 cliente/(255659:255659): ip: 127.0.0.1
+[INFO] 21:31:29:051 cliente/(255659:255659): puerto: 4444
+[INFO] 21:31:29:052 cliente/(255659:255659): valor: valor
+[INFO] 21:31:30:023 cliente/(255695:255695): Hola! Soy un log
+[INFO] 21:31:30:023 cliente/(255695:255695): ip: 127.0.0.1
+[INFO] 21:31:30:023 cliente/(255695:255695): puerto: 4444
+[INFO] 21:31:30:023 cliente/(255695:255695): valor: valor
+[INFO] 21:31:31:042 cliente/(255716:255716): Hola! Soy un log
+[INFO] 21:31:31:043 cliente/(255716:255716): ip: 127.0.0.1
+[INFO] 21:31:31:043 cliente/(255716:255716): puerto: 4444
+[INFO] 21:31:31:043 cliente/(255716:255716): valor: valor
+[INFO] 21:31:37:411 cliente/(255622:255622): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:31:46:765 cliente/(255659:255659): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:31:59:881 cliente/(255695:255695): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:32:03:242 cliente/(255716:255716): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:32:31:043 cliente/(256953:256953): Hola! Soy un log
+[INFO] 21:32:31:043 cliente/(256953:256953): ip: 127.0.0.1
+[INFO] 21:32:31:043 cliente/(256953:256953): puerto: 4444
+[INFO] 21:32:31:043 cliente/(256953:256953): valor: valor
+[INFO] 21:32:31:591 cliente/(256960:256960): Hola! Soy un log
+[INFO] 21:32:31:592 cliente/(256960:256960): ip: 127.0.0.1
+[INFO] 21:32:31:592 cliente/(256960:256960): puerto: 4444
+[INFO] 21:32:31:592 cliente/(256960:256960): valor: valor
+[INFO] 21:32:33:012 cliente/(256998:256998): Hola! Soy un log
+[INFO] 21:32:33:012 cliente/(256998:256998): ip: 127.0.0.1
+[INFO] 21:32:33:012 cliente/(256998:256998): puerto: 4444
+[INFO] 21:32:33:012 cliente/(256998:256998): valor: valor
+[INFO] 21:32:33:354 cliente/(256960:256960): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:32:33:869 cliente/(257025:257025): Hola! Soy un log
+[INFO] 21:32:33:869 cliente/(257025:257025): ip: 127.0.0.1
+[INFO] 21:32:33:869 cliente/(257025:257025): puerto: 4444
+[INFO] 21:32:33:869 cliente/(257025:257025): valor: valor
+[INFO] 21:32:34:887 cliente/(257050:257050): Hola! Soy un log
+[INFO] 21:32:34:887 cliente/(257050:257050): ip: 127.0.0.1
+[INFO] 21:32:34:887 cliente/(257050:257050): puerto: 4444
+[INFO] 21:32:34:888 cliente/(257050:257050): valor: valor
+[INFO] 21:32:40:573 cliente/(256953:256953): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:32:42:015 cliente/(256998:256998): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:32:43:295 cliente/(257025:257025): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:32:44:575 cliente/(257050:257050): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:33:01:003 cliente/(257616:257616): Hola! Soy un log
+[INFO] 21:33:01:003 cliente/(257616:257616): ip: 127.0.0.1
+[INFO] 21:33:01:003 cliente/(257616:257616): puerto: 4444
+[INFO] 21:33:01:003 cliente/(257616:257616): valor: valor
+[INFO] 21:33:01:689 cliente/(257623:257623): Hola! Soy un log
+[INFO] 21:33:01:689 cliente/(257623:257623): ip: 127.0.0.1
+[INFO] 21:33:01:689 cliente/(257623:257623): puerto: 4444
+[INFO] 21:33:01:689 cliente/(257623:257623): valor: valor
+[INFO] 21:33:02:375 cliente/(257653:257653): Hola! Soy un log
+[INFO] 21:33:02:375 cliente/(257653:257653): ip: 127.0.0.1
+[INFO] 21:33:02:375 cliente/(257653:257653): puerto: 4444
+[INFO] 21:33:02:375 cliente/(257653:257653): valor: valor
+[INFO] 21:33:03:338 cliente/(257674:257674): Hola! Soy un log
+[INFO] 21:33:03:338 cliente/(257674:257674): ip: 127.0.0.1
+[INFO] 21:33:03:338 cliente/(257674:257674): puerto: 4444
+[INFO] 21:33:03:338 cliente/(257674:257674): valor: valor
+[INFO] 21:33:03:886 cliente/(257694:257694): Hola! Soy un log
+[INFO] 21:33:03:886 cliente/(257694:257694): ip: 127.0.0.1
+[INFO] 21:33:03:886 cliente/(257694:257694): puerto: 4444
+[INFO] 21:33:03:886 cliente/(257694:257694): valor: valor
+[INFO] 21:33:04:332 cliente/(257694:257694): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:33:12:951 cliente/(257674:257674): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:33:13:953 cliente/(257653:257653): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:33:14:955 cliente/(257623:257623): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:33:14:956 cliente/(257616:257616): Me llego el mensaje Pyä[
+[INFO] 21:34:20:233 cliente/(259201:259201): Hola! Soy un log
+[INFO] 21:34:20:233 cliente/(259201:259201): ip: 127.0.0.1
+[INFO] 21:34:20:233 cliente/(259201:259201): puerto: 4444
+[INFO] 21:34:20:233 cliente/(259201:259201): valor: valor
+[INFO] 21:34:20:957 cliente/(259201:259201): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:34:25:098 cliente/(259303:259303): Hola! Soy un log
+[INFO] 21:34:25:098 cliente/(259303:259303): ip: 127.0.0.1
+[INFO] 21:34:25:098 cliente/(259303:259303): puerto: 4444
+[INFO] 21:34:25:098 cliente/(259303:259303): valor: valor
+[INFO] 21:34:25:636 cliente/(259303:259303): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:34:33:248 cliente/(259483:259483): Hola! Soy un log
+[INFO] 21:34:33:248 cliente/(259483:259483): ip: 127.0.0.1
+[INFO] 21:34:33:248 cliente/(259483:259483): puerto: 4444
+[INFO] 21:34:33:248 cliente/(259483:259483): valor: valor
+[INFO] 21:34:33:508 cliente/(259483:259483): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:34:35:315 cliente/(259523:259523): Hola! Soy un log
+[INFO] 21:34:35:315 cliente/(259523:259523): ip: 127.0.0.1
+[INFO] 21:34:35:318 cliente/(259523:259523): puerto: 4444
+[INFO] 21:34:35:318 cliente/(259523:259523): valor: valor
+[INFO] 21:34:35:529 cliente/(259523:259523): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:34:38:238 cliente/(259592:259592): Hola! Soy un log
+[INFO] 21:34:38:238 cliente/(259592:259592): ip: 127.0.0.1
+[INFO] 21:34:38:238 cliente/(259592:259592): puerto: 4444
+[INFO] 21:34:38:238 cliente/(259592:259592): valor: valor
+[INFO] 21:34:38:683 cliente/(259592:259592): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:38:10:048 cliente/(263685:263685): Hola! Soy un log
+[INFO] 21:38:10:049 cliente/(263685:263685): ip: 127.0.0.1
+[INFO] 21:38:10:049 cliente/(263685:263685): puerto: 4444
+[INFO] 21:38:10:049 cliente/(263685:263685): valor: valor
+[INFO] 21:38:10:764 cliente/(263702:263702): Hola! Soy un log
+[INFO] 21:38:10:764 cliente/(263702:263702): ip: 127.0.0.1
+[INFO] 21:38:10:764 cliente/(263702:263702): puerto: 4444
+[INFO] 21:38:10:764 cliente/(263702:263702): valor: valor
+[INFO] 21:38:11:468 cliente/(263705:263705): Hola! Soy un log
+[INFO] 21:38:11:468 cliente/(263705:263705): ip: 127.0.0.1
+[INFO] 21:38:11:468 cliente/(263705:263705): puerto: 4444
+[INFO] 21:38:11:468 cliente/(263705:263705): valor: valor
+[INFO] 21:38:12:224 cliente/(263725:263725): Hola! Soy un log
+[INFO] 21:38:12:224 cliente/(263725:263725): ip: 127.0.0.1
+[INFO] 21:38:12:224 cliente/(263725:263725): puerto: 4444
+[INFO] 21:38:12:224 cliente/(263725:263725): valor: valor
+[INFO] 21:38:12:980 cliente/(263741:263741): Hola! Soy un log
+[INFO] 21:38:12:980 cliente/(263741:263741): ip: 127.0.0.1
+[INFO] 21:38:12:980 cliente/(263741:263741): puerto: 4444
+[INFO] 21:38:12:980 cliente/(263741:263741): valor: valor
+[INFO] 21:38:16:040 cliente/(263741:263741): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:38:24:577 cliente/(263725:263725): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:38:24:932 cliente/(263705:263705): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:38:25:426 cliente/(263702:263702): Me llego el mensaje PRf>Ä
+[INFO] 21:38:25:426 cliente/(263685:263685): Me llego el mensaje Pòlù
+[INFO] 21:40:02:317 cliente/(265839:265839): Hola! Soy un log
+[INFO] 21:40:02:317 cliente/(265839:265839): ip: 127.0.0.1
+[INFO] 21:40:02:317 cliente/(265839:265839): puerto: 4444
+[INFO] 21:40:02:317 cliente/(265839:265839): valor: valor
+[INFO] 21:40:03:167 cliente/(265863:265863): Hola! Soy un log
+[INFO] 21:40:03:167 cliente/(265863:265863): ip: 127.0.0.1
+[INFO] 21:40:03:167 cliente/(265863:265863): puerto: 4444
+[INFO] 21:40:03:167 cliente/(265863:265863): valor: valor
+[INFO] 21:40:03:808 cliente/(265883:265883): Hola! Soy un log
+[INFO] 21:40:03:808 cliente/(265883:265883): ip: 127.0.0.1
+[INFO] 21:40:03:808 cliente/(265883:265883): puerto: 4444
+[INFO] 21:40:03:808 cliente/(265883:265883): valor: valor
+[INFO] 21:40:04:471 cliente/(265891:265891): Hola! Soy un log
+[INFO] 21:40:04:471 cliente/(265891:265891): ip: 127.0.0.1
+[INFO] 21:40:04:471 cliente/(265891:265891): puerto: 4444
+[INFO] 21:40:04:471 cliente/(265891:265891): valor: valor
+[INFO] 21:40:05:088 cliente/(265909:265909): Hola! Soy un log
+[INFO] 21:40:05:088 cliente/(265909:265909): ip: 127.0.0.1
+[INFO] 21:40:05:088 cliente/(265909:265909): puerto: 4444
+[INFO] 21:40:05:088 cliente/(265909:265909): valor: valor
+[INFO] 21:40:05:511 cliente/(265909:265909): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:40:07:633 cliente/(265891:265891): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:40:08:034 cliente/(265883:265883): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:40:08:458 cliente/(265863:265863): Me llego el mensaje PR³°
+[INFO] 21:40:08:458 cliente/(265839:265839): Me llego el mensaje P2\†<
+[INFO] 21:42:17:492 cliente/(268446:268446): Hola! Soy un log
+[INFO] 21:42:17:493 cliente/(268446:268446): ip: 127.0.0.1
+[INFO] 21:42:17:493 cliente/(268446:268446): puerto: 4444
+[INFO] 21:42:17:493 cliente/(268446:268446): valor: valor
+[INFO] 21:42:18:318 cliente/(268474:268474): Hola! Soy un log
+[INFO] 21:42:18:318 cliente/(268474:268474): ip: 127.0.0.1
+[INFO] 21:42:18:319 cliente/(268474:268474): puerto: 4444
+[INFO] 21:42:18:319 cliente/(268474:268474): valor: valor
+[INFO] 21:42:18:838 cliente/(268495:268495): Hola! Soy un log
+[INFO] 21:42:18:838 cliente/(268495:268495): ip: 127.0.0.1
+[INFO] 21:42:18:838 cliente/(268495:268495): puerto: 4444
+[INFO] 21:42:18:838 cliente/(268495:268495): valor: valor
+[INFO] 21:42:19:433 cliente/(268497:268497): Hola! Soy un log
+[INFO] 21:42:19:433 cliente/(268497:268497): ip: 127.0.0.1
+[INFO] 21:42:19:433 cliente/(268497:268497): puerto: 4444
+[INFO] 21:42:19:434 cliente/(268497:268497): valor: valor
+[INFO] 21:42:20:651 cliente/(268521:268521): Hola! Soy un log
+[INFO] 21:42:20:652 cliente/(268521:268521): ip: 127.0.0.1
+[INFO] 21:42:20:652 cliente/(268521:268521): puerto: 4444
+[INFO] 21:42:20:652 cliente/(268521:268521): valor: valor
+[INFO] 21:43:40:317 cliente/(268446:268446): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:43:46:460 cliente/(268474:268474): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:43:48:597 cliente/(268495:268495): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:43:48:598 cliente/(268521:268521): Me llego el mensaje P‚ÅÏj
+[INFO] 21:43:48:598 cliente/(268497:268497): Me llego el mensaje P²ä«g
+[INFO] 21:49:47:813 cliente/(277122:277122): Hola! Soy un log
+[INFO] 21:49:47:813 cliente/(277122:277122): ip: 127.0.0.1
+[INFO] 21:49:47:814 cliente/(277122:277122): puerto: 4444
+[INFO] 21:49:47:814 cliente/(277122:277122): valor: valor
+[INFO] 21:49:53:149 cliente/(277231:277231): Hola! Soy un log
+[INFO] 21:49:53:149 cliente/(277231:277231): ip: 127.0.0.1
+[INFO] 21:49:53:149 cliente/(277231:277231): puerto: 4444
+[INFO] 21:49:53:149 cliente/(277231:277231): valor: valor
+[INFO] 21:50:08:036 cliente/(277122:277122): Me llego el mensaje P’§Áç
+[INFO] 21:50:08:037 cliente/(277231:277231): Me llego el mensaje P"«
+[INFO] 21:50:39:785 cliente/(278182:278182): Hola! Soy un log
+[INFO] 21:50:39:790 cliente/(278182:278182): ip: 127.0.0.1
+[INFO] 21:50:39:791 cliente/(278182:278182): puerto: 4444
+[INFO] 21:50:39:791 cliente/(278182:278182): valor: valor
+[INFO] 21:50:40:382 cliente/(278182:278182): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:50:45:055 cliente/(278295:278295): Hola! Soy un log
+[INFO] 21:50:45:056 cliente/(278295:278295): ip: 127.0.0.1
+[INFO] 21:50:45:056 cliente/(278295:278295): puerto: 4444
+[INFO] 21:50:45:056 cliente/(278295:278295): valor: valor
+[INFO] 21:50:45:363 cliente/(278295:278295): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:50:46:822 cliente/(278338:278338): Hola! Soy un log
+[INFO] 21:50:46:822 cliente/(278338:278338): ip: 127.0.0.1
+[INFO] 21:50:46:822 cliente/(278338:278338): puerto: 4444
+[INFO] 21:50:46:822 cliente/(278338:278338): valor: valor
+[INFO] 21:50:47:638 cliente/(278338:278338): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:50:48:211 cliente/(278365:278365): Hola! Soy un log
+[INFO] 21:50:48:211 cliente/(278365:278365): ip: 127.0.0.1
+[INFO] 21:50:48:211 cliente/(278365:278365): puerto: 4444
+[INFO] 21:50:48:211 cliente/(278365:278365): valor: valor
+[INFO] 21:50:50:177 cliente/(278402:278402): Hola! Soy un log
+[INFO] 21:50:50:177 cliente/(278402:278402): ip: 127.0.0.1
+[INFO] 21:50:50:177 cliente/(278402:278402): puerto: 4444
+[INFO] 21:50:50:177 cliente/(278402:278402): valor: valor
+[INFO] 21:50:51:195 cliente/(278420:278420): Hola! Soy un log
+[INFO] 21:50:51:196 cliente/(278420:278420): ip: 127.0.0.1
+[INFO] 21:50:51:196 cliente/(278420:278420): puerto: 4444
+[INFO] 21:50:51:196 cliente/(278420:278420): valor: valor
+[INFO] 21:50:52:122 cliente/(278447:278447): Hola! Soy un log
+[INFO] 21:50:52:122 cliente/(278447:278447): ip: 127.0.0.1
+[INFO] 21:50:52:122 cliente/(278447:278447): puerto: 4444
+[INFO] 21:50:52:122 cliente/(278447:278447): valor: valor
+[INFO] 21:50:54:432 cliente/(278365:278365): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:50:55:549 cliente/(278402:278402): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:50:59:549 cliente/(278420:278420): Me llego el mensaje P2 à[
+[INFO] 21:50:59:549 cliente/(278447:278447): Me llego el mensaje Pb)ða
+[INFO] 21:57:15:293 cliente/(285619:285619): Hola! Soy un log
+[INFO] 21:57:15:293 cliente/(285619:285619): ip: 127.0.0.1
+[INFO] 21:57:15:293 cliente/(285619:285619): puerto: 4444
+[INFO] 21:57:15:293 cliente/(285619:285619): valor: valor
+[INFO] 21:57:15:832 cliente/(285619:285619): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:57:16:450 cliente/(285642:285642): Hola! Soy un log
+[INFO] 21:57:16:451 cliente/(285642:285642): ip: 127.0.0.1
+[INFO] 21:57:16:451 cliente/(285642:285642): puerto: 4444
+[INFO] 21:57:16:451 cliente/(285642:285642): valor: valor
+[INFO] 21:57:17:304 cliente/(285661:285661): Hola! Soy un log
+[INFO] 21:57:17:304 cliente/(285661:285661): ip: 127.0.0.1
+[INFO] 21:57:17:304 cliente/(285661:285661): puerto: 4444
+[INFO] 21:57:17:304 cliente/(285661:285661): valor: valor
+[INFO] 21:57:19:415 cliente/(285707:285707): Hola! Soy un log
+[INFO] 21:57:19:415 cliente/(285707:285707): ip: 127.0.0.1
+[INFO] 21:57:19:415 cliente/(285707:285707): puerto: 4444
+[INFO] 21:57:19:415 cliente/(285707:285707): valor: valor
+[INFO] 21:57:21:131 cliente/(285744:285744): Hola! Soy un log
+[INFO] 21:57:21:131 cliente/(285744:285744): ip: 127.0.0.1
+[INFO] 21:57:21:131 cliente/(285744:285744): puerto: 4444
+[INFO] 21:57:21:131 cliente/(285744:285744): valor: valor
+[INFO] 21:57:24:047 cliente/(285642:285642): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:57:25:586 cliente/(285661:285661): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:57:27:025 cliente/(285707:285707): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:57:28:027 cliente/(285744:285744): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:57:29:411 cliente/(285912:285912): Hola! Soy un log
+[INFO] 21:57:29:411 cliente/(285912:285912): ip: 127.0.0.1
+[INFO] 21:57:29:411 cliente/(285912:285912): puerto: 4444
+[INFO] 21:57:29:411 cliente/(285912:285912): valor: valor
+[INFO] 21:57:30:958 cliente/(285963:285963): Hola! Soy un log
+[INFO] 21:57:30:958 cliente/(285963:285963): ip: 127.0.0.1
+[INFO] 21:57:30:958 cliente/(285963:285963): puerto: 4444
+[INFO] 21:57:30:958 cliente/(285963:285963): valor: valor
+[INFO] 21:57:32:023 cliente/(285983:285983): Hola! Soy un log
+[INFO] 21:57:32:024 cliente/(285983:285983): ip: 127.0.0.1
+[INFO] 21:57:32:024 cliente/(285983:285983): puerto: 4444
+[INFO] 21:57:32:024 cliente/(285983:285983): valor: valor
+[INFO] 21:57:32:027 cliente/(285963:285963): Me llego el mensaje PÒ!·Ô
+[INFO] 21:57:32:027 cliente/(285912:285912): Me llego el mensaje P²"”À
+[INFO] 21:57:33:347 cliente/(286000:286000): Hola! Soy un log
+[INFO] 21:57:33:347 cliente/(286000:286000): ip: 127.0.0.1
+[INFO] 21:57:33:347 cliente/(286000:286000): puerto: 4444
+[INFO] 21:57:33:347 cliente/(286000:286000): valor: valor
+[INFO] 21:57:34:505 cliente/(286028:286028): Hola! Soy un log
+[INFO] 21:57:34:505 cliente/(286028:286028): ip: 127.0.0.1
+[INFO] 21:57:34:505 cliente/(286028:286028): puerto: 4444
+[INFO] 21:57:34:505 cliente/(286028:286028): valor: valor
+[INFO] 21:57:49:596 cliente/(286387:286387): Hola! Soy un log
+[INFO] 21:57:49:596 cliente/(286387:286387): ip: 127.0.0.1
+[INFO] 21:57:49:596 cliente/(286387:286387): puerto: 4444
+[INFO] 21:57:49:596 cliente/(286387:286387): valor: valor
+[INFO] 21:57:50:042 cliente/(286387:286387): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:57:51:464 cliente/(286431:286431): Hola! Soy un log
+[INFO] 21:57:51:464 cliente/(286431:286431): ip: 127.0.0.1
+[INFO] 21:57:51:464 cliente/(286431:286431): puerto: 4444
+[INFO] 21:57:51:464 cliente/(286431:286431): valor: valor
+[INFO] 21:57:52:621 cliente/(286451:286451): Hola! Soy un log
+[INFO] 21:57:52:622 cliente/(286451:286451): ip: 127.0.0.1
+[INFO] 21:57:52:622 cliente/(286451:286451): puerto: 4444
+[INFO] 21:57:52:622 cliente/(286451:286451): valor: valor
+[INFO] 21:57:53:663 cliente/(286467:286467): Hola! Soy un log
+[INFO] 21:57:53:664 cliente/(286467:286467): ip: 127.0.0.1
+[INFO] 21:57:53:664 cliente/(286467:286467): puerto: 4444
+[INFO] 21:57:53:664 cliente/(286467:286467): valor: valor
+[INFO] 21:57:54:447 cliente/(286495:286495): Hola! Soy un log
+[INFO] 21:57:54:447 cliente/(286495:286495): ip: 127.0.0.1
+[INFO] 21:57:54:447 cliente/(286495:286495): puerto: 4444
+[INFO] 21:57:54:448 cliente/(286495:286495): valor: valor
+[INFO] 21:57:56:993 cliente/(286431:286431): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:57:57:995 cliente/(286451:286451): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:57:58:997 cliente/(286467:286467): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:57:59:997 cliente/(286628:286628): Hola! Soy un log
+[INFO] 21:57:59:997 cliente/(286628:286628): ip: 127.0.0.1
+[INFO] 21:57:59:997 cliente/(286628:286628): puerto: 4444
+[INFO] 21:57:59:997 cliente/(286628:286628): valor: valor
+[INFO] 21:58:00:003 cliente/(286495:286495): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:00:957 cliente/(286652:286652): Hola! Soy un log
+[INFO] 21:58:00:957 cliente/(286652:286652): ip: 127.0.0.1
+[INFO] 21:58:00:957 cliente/(286652:286652): puerto: 4444
+[INFO] 21:58:00:957 cliente/(286652:286652): valor: valor
+[INFO] 21:58:01:556 cliente/(286652:286652): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:04:028 cliente/(286709:286709): Hola! Soy un log
+[INFO] 21:58:04:028 cliente/(286709:286709): ip: 127.0.0.1
+[INFO] 21:58:04:031 cliente/(286709:286709): puerto: 4444
+[INFO] 21:58:04:031 cliente/(286709:286709): valor: valor
+[INFO] 21:58:04:529 cliente/(286628:286628): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:05:360 cliente/(286739:286739): Hola! Soy un log
+[INFO] 21:58:05:360 cliente/(286739:286739): ip: 127.0.0.1
+[INFO] 21:58:05:360 cliente/(286739:286739): puerto: 4444
+[INFO] 21:58:05:360 cliente/(286739:286739): valor: valor
+[INFO] 21:58:06:595 cliente/(286761:286761): Hola! Soy un log
+[INFO] 21:58:06:595 cliente/(286761:286761): ip: 127.0.0.1
+[INFO] 21:58:06:595 cliente/(286761:286761): puerto: 4444
+[INFO] 21:58:06:595 cliente/(286761:286761): valor: valor
+[INFO] 21:58:10:181 cliente/(286709:286709): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:10:591 cliente/(286848:286848): Hola! Soy un log
+[INFO] 21:58:10:591 cliente/(286848:286848): ip: 127.0.0.1
+[INFO] 21:58:10:591 cliente/(286848:286848): puerto: 4444
+[INFO] 21:58:10:591 cliente/(286848:286848): valor: valor
+[INFO] 21:58:12:193 cliente/(286883:286883): Hola! Soy un log
+[INFO] 21:58:12:193 cliente/(286883:286883): ip: 127.0.0.1
+[INFO] 21:58:12:193 cliente/(286883:286883): puerto: 4444
+[INFO] 21:58:12:193 cliente/(286883:286883): valor: valor
+[INFO] 21:58:14:933 cliente/(286739:286739): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:15:934 cliente/(286761:286761): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:16:936 cliente/(286848:286848): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:17:938 cliente/(286883:286883): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:21:346 cliente/(287073:287073): Hola! Soy un log
+[INFO] 21:58:21:346 cliente/(287073:287073): ip: 127.0.0.1
+[INFO] 21:58:21:346 cliente/(287073:287073): puerto: 4444
+[INFO] 21:58:21:347 cliente/(287073:287073): valor: valor
+[INFO] 21:58:23:222 cliente/(287111:287111): Hola! Soy un log
+[INFO] 21:58:23:222 cliente/(287111:287111): ip: 127.0.0.1
+[INFO] 21:58:23:222 cliente/(287111:287111): puerto: 4444
+[INFO] 21:58:23:222 cliente/(287111:287111): valor: valor
+[INFO] 21:58:23:248 cliente/(287073:287073): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:24:195 cliente/(287138:287138): Hola! Soy un log
+[INFO] 21:58:24:195 cliente/(287138:287138): ip: 127.0.0.1
+[INFO] 21:58:24:195 cliente/(287138:287138): puerto: 4444
+[INFO] 21:58:24:195 cliente/(287138:287138): valor: valor
+[INFO] 21:58:25:611 cliente/(287163:287163): Hola! Soy un log
+[INFO] 21:58:25:611 cliente/(287163:287163): ip: 127.0.0.1
+[INFO] 21:58:25:614 cliente/(287163:287163): puerto: 4444
+[INFO] 21:58:25:614 cliente/(287163:287163): valor: valor
+[INFO] 21:58:28:175 cliente/(287219:287219): Hola! Soy un log
+[INFO] 21:58:28:175 cliente/(287219:287219): ip: 127.0.0.1
+[INFO] 21:58:28:175 cliente/(287219:287219): puerto: 4444
+[INFO] 21:58:28:175 cliente/(287219:287219): valor: valor
+[INFO] 21:58:30:236 cliente/(287111:287111): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:35:100 cliente/(287138:287138): Me llego el mensaje Me llego tu mensaje
+[INFO] 21:58:55:428 cliente/(287808:287808): Hola! Soy un log
+[INFO] 21:58:55:428 cliente/(287808:287808): ip: 127.0.0.1
+[INFO] 21:58:55:428 cliente/(287808:287808): puerto: 4444
+[INFO] 21:58:55:428 cliente/(287808:287808): valor: valor
+[INFO] 21:58:59:015 cliente/(287880:287880): Hola! Soy un log
+[INFO] 21:58:59:015 cliente/(287880:287880): ip: 127.0.0.1
+[INFO] 21:58:59:015 cliente/(287880:287880): puerto: 4444
+[INFO] 21:58:59:015 cliente/(287880:287880): valor: valor
+[INFO] 21:59:00:053 cliente/(287909:287909): Hola! Soy un log
+[INFO] 21:59:00:053 cliente/(287909:287909): ip: 127.0.0.1
+[INFO] 21:59:00:053 cliente/(287909:287909): puerto: 4444
+[INFO] 21:59:00:053 cliente/(287909:287909): valor: valor
+[INFO] 21:59:11:237 cliente/(288150:288150): Hola! Soy un log
+[INFO] 21:59:11:237 cliente/(288150:288150): ip: 127.0.0.1
+[INFO] 21:59:11:237 cliente/(288150:288150): puerto: 4444
+[INFO] 21:59:11:237 cliente/(288150:288150): valor: valor
+[INFO] 21:59:52:024 cliente/(289140:289140): Hola! Soy un log
+[INFO] 21:59:52:024 cliente/(289140:289140): ip: 127.0.0.1
+[INFO] 21:59:52:024 cliente/(289140:289140): puerto: 4444
+[INFO] 21:59:52:024 cliente/(289140:289140): valor: valor
+[INFO] 22:02:09:312 cliente/(292349:292349): Hola! Soy un log
+[INFO] 22:02:09:313 cliente/(292349:292349): ip: 127.0.0.1
+[INFO] 22:02:09:313 cliente/(292349:292349): puerto: 4444
+[INFO] 22:02:09:313 cliente/(292349:292349): valor: valor
+[INFO] 22:04:37:778 cliente/(295686:295686): Hola! Soy un log
+[INFO] 22:04:37:779 cliente/(295686:295686): ip: 127.0.0.1
+[INFO] 22:04:37:780 cliente/(295686:295686): puerto: 4444
+[INFO] 22:04:37:780 cliente/(295686:295686): valor: valor
+[INFO] 22:04:38:583 cliente/(295686:295686): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:04:42:025 cliente/(295775:295775): Hola! Soy un log
+[INFO] 22:04:42:025 cliente/(295775:295775): ip: 127.0.0.1
+[INFO] 22:04:42:025 cliente/(295775:295775): puerto: 4444
+[INFO] 22:04:42:025 cliente/(295775:295775): valor: valor
+[INFO] 22:04:42:474 cliente/(295775:295775): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:04:44:350 cliente/(295819:295819): Hola! Soy un log
+[INFO] 22:04:44:350 cliente/(295819:295819): ip: 127.0.0.1
+[INFO] 22:04:44:350 cliente/(295819:295819): puerto: 4444
+[INFO] 22:04:44:350 cliente/(295819:295819): valor: valor
+[INFO] 22:04:48:394 cliente/(295819:295819): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:04:51:425 cliente/(295973:295973): Hola! Soy un log
+[INFO] 22:04:51:425 cliente/(295973:295973): ip: 127.0.0.1
+[INFO] 22:04:51:425 cliente/(295973:295973): puerto: 4444
+[INFO] 22:04:51:425 cliente/(295973:295973): valor: valor
+[INFO] 22:04:51:870 cliente/(295973:295973): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:05:20:264 cliente/(296555:296555): Hola! Soy un log
+[INFO] 22:05:20:265 cliente/(296555:296555): ip: 127.0.0.1
+[INFO] 22:05:20:265 cliente/(296555:296555): puerto: 4444
+[INFO] 22:05:20:265 cliente/(296555:296555): valor: valor
+[INFO] 22:05:21:263 cliente/(296555:296555): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:05:25:212 cliente/(296662:296662): Hola! Soy un log
+[INFO] 22:05:25:212 cliente/(296662:296662): ip: 127.0.0.1
+[INFO] 22:05:25:212 cliente/(296662:296662): puerto: 4444
+[INFO] 22:05:25:212 cliente/(296662:296662): valor: valor
+[INFO] 22:05:25:842 cliente/(296662:296662): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:05:28:665 cliente/(296724:296724): Hola! Soy un log
+[INFO] 22:05:28:665 cliente/(296724:296724): ip: 127.0.0.1
+[INFO] 22:05:28:665 cliente/(296724:296724): puerto: 4444
+[INFO] 22:05:28:665 cliente/(296724:296724): valor: valor
+[INFO] 22:05:29:226 cliente/(296724:296724): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:05:39:647 cliente/(296985:296985): Hola! Soy un log
+[INFO] 22:05:39:648 cliente/(296985:296985): ip: 127.0.0.1
+[INFO] 22:05:39:648 cliente/(296985:296985): puerto: 4444
+[INFO] 22:05:39:648 cliente/(296985:296985): valor: valor
+[INFO] 22:05:40:096 cliente/(296985:296985): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:05:41:460 cliente/(297030:297030): Hola! Soy un log
+[INFO] 22:05:41:460 cliente/(297030:297030): ip: 127.0.0.1
+[INFO] 22:05:41:460 cliente/(297030:297030): puerto: 4444
+[INFO] 22:05:41:460 cliente/(297030:297030): valor: valor
+[INFO] 22:05:41:882 cliente/(297030:297030): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:05:47:656 cliente/(297163:297163): Hola! Soy un log
+[INFO] 22:05:47:657 cliente/(297163:297163): ip: 127.0.0.1
+[INFO] 22:05:47:657 cliente/(297163:297163): puerto: 4444
+[INFO] 22:05:47:657 cliente/(297163:297163): valor: valor
+[INFO] 22:05:48:079 cliente/(297163:297163): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:05:49:419 cliente/(297212:297212): Hola! Soy un log
+[INFO] 22:05:49:419 cliente/(297212:297212): ip: 127.0.0.1
+[INFO] 22:05:49:419 cliente/(297212:297212): puerto: 4444
+[INFO] 22:05:49:419 cliente/(297212:297212): valor: valor
+[INFO] 22:05:49:684 cliente/(297212:297212): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:06:14:268 cliente/(297700:297700): Hola! Soy un log
+[INFO] 22:06:14:268 cliente/(297700:297700): ip: 127.0.0.1
+[INFO] 22:06:14:269 cliente/(297700:297700): puerto: 4444
+[INFO] 22:06:14:269 cliente/(297700:297700): valor: valor
+[INFO] 22:06:45:252 cliente/(297700:297700): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:06:49:317 cliente/(298474:298474): Hola! Soy un log
+[INFO] 22:06:49:318 cliente/(298474:298474): ip: 127.0.0.1
+[INFO] 22:06:49:318 cliente/(298474:298474): puerto: 4444
+[INFO] 22:06:49:318 cliente/(298474:298474): valor: valor
+[INFO] 22:06:49:532 cliente/(298474:298474): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:06:52:309 cliente/(298537:298537): Hola! Soy un log
+[INFO] 22:06:52:309 cliente/(298537:298537): ip: 127.0.0.1
+[INFO] 22:06:52:309 cliente/(298537:298537): puerto: 4444
+[INFO] 22:06:52:309 cliente/(298537:298537): valor: valor
+[INFO] 22:06:52:524 cliente/(298537:298537): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:06:58:672 cliente/(298690:298690): Hola! Soy un log
+[INFO] 22:06:58:672 cliente/(298690:298690): ip: 127.0.0.1
+[INFO] 22:06:58:672 cliente/(298690:298690): puerto: 4444
+[INFO] 22:06:58:672 cliente/(298690:298690): valor: valor
+[INFO] 22:06:59:867 cliente/(298690:298690): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:07:05:912 cliente/(298864:298864): Hola! Soy un log
+[INFO] 22:07:05:912 cliente/(298864:298864): ip: 127.0.0.1
+[INFO] 22:07:05:912 cliente/(298864:298864): puerto: 4444
+[INFO] 22:07:05:912 cliente/(298864:298864): valor: valor
+[INFO] 22:07:07:171 cliente/(298864:298864): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:07:49:781 cliente/(299712:299712): Hola! Soy un log
+[INFO] 22:07:49:782 cliente/(299712:299712): ip: 127.0.0.1
+[INFO] 22:07:49:782 cliente/(299712:299712): puerto: 4444
+[INFO] 22:07:49:782 cliente/(299712:299712): valor: valor
+[INFO] 22:07:56:853 cliente/(299712:299712): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:08:00:876 cliente/(299957:299957): Hola! Soy un log
+[INFO] 22:08:00:876 cliente/(299957:299957): ip: 127.0.0.1
+[INFO] 22:08:00:876 cliente/(299957:299957): puerto: 4444
+[INFO] 22:08:00:876 cliente/(299957:299957): valor: valor
+[INFO] 22:08:01:484 cliente/(299957:299957): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:09:35:328 cliente/(301756:301756): Hola! Soy un log
+[INFO] 22:09:35:329 cliente/(301756:301756): ip: 127.0.0.1
+[INFO] 22:09:35:329 cliente/(301756:301756): puerto: 4444
+[INFO] 22:09:35:329 cliente/(301756:301756): valor: valor
+[INFO] 22:09:35:891 cliente/(301756:301756): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:09:42:411 cliente/(301903:301903): Hola! Soy un log
+[INFO] 22:09:42:411 cliente/(301903:301903): ip: 127.0.0.1
+[INFO] 22:09:42:411 cliente/(301903:301903): puerto: 4444
+[INFO] 22:09:42:411 cliente/(301903:301903): valor: valor
+[INFO] 22:10:03:185 cliente/(301903:301903): Me llego el mensaje PbøÏ
+[INFO] 22:11:00:860 cliente/(303533:303533): Hola! Soy un log
+[INFO] 22:11:00:860 cliente/(303533:303533): ip: 127.0.0.1
+[INFO] 22:11:00:860 cliente/(303533:303533): puerto: 4444
+[INFO] 22:11:00:860 cliente/(303533:303533): valor: valor
+[INFO] 22:11:01:505 cliente/(303533:303533): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:40:40:645 cliente/(336243:336243): Hola! Soy un log
+[INFO] 22:40:40:645 cliente/(336243:336243): ip: 127.0.0.1
+[INFO] 22:40:40:645 cliente/(336243:336243): puerto: 4444
+[INFO] 22:40:40:645 cliente/(336243:336243): valor: valor
+[INFO] 22:41:03:818 cliente/(336243:336243): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:41:44:080 Servidor/(337261:337261): 0 | Servidor listo para recibir al cliente
+[INFO] 22:42:06:269 cliente/(338045:338045): Hola! Soy un log
+[INFO] 22:42:06:269 cliente/(338045:338045): ip: 127.0.0.1
+[INFO] 22:42:06:269 cliente/(338045:338045): puerto: 4444
+[INFO] 22:42:06:269 cliente/(338045:338045): valor: valor
+[INFO] 22:42:08:674 cliente/(338045:338045): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:42:37:711 cliente/(338695:338695): Hola! Soy un log
+[INFO] 22:42:37:711 cliente/(338695:338695): ip: 127.0.0.1
+[INFO] 22:42:37:711 cliente/(338695:338695): puerto: 4444
+[INFO] 22:42:37:712 cliente/(338695:338695): valor: valor
+[INFO] 22:42:38:639 cliente/(338695:338695): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:43:08:815 Servidor/(339046:339046): 0 | Servidor listo para recibir al cliente
+[INFO] 22:43:57:302 cliente/(340372:340372): Hola! Soy un log
+[INFO] 22:43:57:302 cliente/(340372:340372): ip: 127.0.0.1
+[INFO] 22:43:57:302 cliente/(340372:340372): puerto: 4444
+[INFO] 22:43:57:302 cliente/(340372:340372): valor: valor
+[INFO] 22:43:58:141 cliente/(340372:340372): Me llego el mensaje Me llego tu mensaje
+[INFO] 22:44:20:174 cliente/(340858:340858): Hola! Soy un log
+[INFO] 22:44:20:174 cliente/(340858:340858): ip: 127.0.0.1
+[INFO] 22:44:20:174 cliente/(340858:340858): puerto: 4444
+[INFO] 22:44:20:174 cliente/(340858:340858): valor: valor
+[INFO] 22:44:20:481 cliente/(340858:340858): Me llego el mensaje Me llego tu mensaje

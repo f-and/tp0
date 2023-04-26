@@ -1,5 +1,8 @@
 #include "client.h"
 
+void recibir_mensaje(int, t_log*);
+void *recibir_buffer(int *, int);
+
 int main(void) {
 	/*---------------------------------------------------PARTE 2-------------------------------------------------------------*/
 	int conexion;
@@ -50,6 +53,7 @@ int main(void) {
 
 	// Enviamos al servidor el valor de CLAVE como mensaje
 	enviar_mensaje(valor, conexion);
+	recibir_mensaje(conexion, logger);
 
 	// Armamos y enviamos el paquete
 	paquete(conexion);
@@ -109,4 +113,23 @@ void terminar_programa(int conexion, t_log* logger, t_config* config)
 	  log_destroy(logger);
 	  config_destroy(config);
 	  close(conexion);
+}
+
+void* recibir_buffer(int* size, int socket_cliente) {
+	void * buffer;
+	int cod_op;
+	recv(socket_cliente, &cod_op, sizeof(int), MSG_WAITALL);
+
+	recv(socket_cliente, size, sizeof(int), MSG_WAITALL);
+	buffer = malloc(*size);
+	recv(socket_cliente, buffer, *size, MSG_WAITALL);
+
+	return buffer;
+}
+
+void recibir_mensaje(int socket_cliente, t_log* logger) {
+	int size;
+	char* buffer = recibir_buffer(&size, socket_cliente);
+	log_info(logger, "Me llego el mensaje %s", buffer);
+	free(buffer);
 }
